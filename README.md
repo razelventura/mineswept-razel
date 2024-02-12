@@ -1,5 +1,5 @@
 # mineswept-razel
-/*
+
 Mobile App Devt (CIT2269) Assignment 2
 author: Razel Ventura, s0541328
 date: 2024-02-12
@@ -41,4 +41,3 @@ indicate how many mines are in the surrounding cells. In Mines Wept, instead of 
 
 Hence there is more luck needed in Mines Wept but it still requires some skill.
 
-*/
